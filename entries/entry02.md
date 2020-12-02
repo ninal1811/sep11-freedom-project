@@ -7,7 +7,7 @@ Throughout the Engineering Design Process, I have researched the problem of how 
 ____
 ***Shown below are the Firebase codes that I tinkered with:***
 <br>
-*The first script indicates that the Firebase App Tools are allowed into the HTML file. The second script indicates that the Realtime Database feature is incorporated into the file and makes sure it is working. And the final script indicates that the Firebase service is added to the HTML file.*
+*The first script indicates that the Firebase App Tools are allowed into the HTML file. The second script indicates that the Realtime Database feature is incorporated into the file and makes sure it is working. And the final script indicates that the Firebase service is added to the HTML file. These scripts allowed me to incorporate what I had on Repl.it and stores the previous information in the console.*
 ```ruby
   <script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-app.js"></script>
 ```
