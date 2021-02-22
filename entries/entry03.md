@@ -65,7 +65,7 @@ ____
 15     console.log("task_delete");
 16   }
 ```
-When the user inputs a task and presses "Enter", the code above specifically ```function data()``` would take the input and store it in console.log. The other functions would allow the user to edit the tasks, delete the tasks, add tasks, and mark the tasks as done. These functions are presented as buttons in the HTML file. 
+When the user inputs a task and presses "Enter", Lines 1-4 would take the input and store it in console.log. The other functions would allow the user to edit the tasks, delete the tasks, add tasks, and mark the tasks as done. These functions are presented as buttons in the HTML file. 
 ____
 The skills I've used would be **Debugging** and having a **Growth mindset**. The skill of having a **Growth mindset** allowed me to be patient in learning the different components of Firebase which also pushed me in tinkering and coding for my project. Oftentimes, if I don't do enough researching and practicing what I've learned, it's really hard for me to have a positive mindset in what I'm going to create. As I get more in contact with projects like this, I've learned more about how I should learn which encourages me to work harder. **Debugging** is another skill that I've used. Since I'm constantly learning more about my tool and the outcome of this project, debugging has become an important factor in helping me identify what I've done incorrectly. Despite that debugging is displeasing, it truly allowed me to make my codes more clear and easier to understand for the future. Overall, I think **Debugging** and **Growth mindset** are skills that helped me understand my code and tool (Firebase) while helping me grow as an individual.
 
