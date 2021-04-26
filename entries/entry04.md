@@ -5,7 +5,7 @@ As of right now, Cindy and I have continued exploring the different components i
 
 <hr>
 
-In this Engineering Design Process, I am continuing to "creating a prototype." Throughout our findings, we noticed that Cloud Firestore works with our project better than RealTime Database. As both databases help store data and use the information that is inputted, Firestore allows user to store their data in the cloud. This is beneficial to my freedom project, "TO-DO LIST" because allows the user's task to automatically in sync with the system. We began planning the base of our To-Do List on the index.HTML and script.JS and we will be working on the code throughout the next few weeks.
+In this Engineering Design Process, I am continuing to "create a prototype." Throughout our findings, we noticed that Cloud Firestore works with our project better than RealTime Database. As both databases help store data and use the information that is inputted, Firestore allows user to store their data in the cloud. This is beneficial to my freedom project, "TO-DO LIST" because allows the user's task to automatically in sync with the system. We began planning the base of our To-Do List on the index.HTML and script.JS and we will be working on the code throughout the next few weeks.
 
 <hr>
 
@@ -44,6 +44,38 @@ Line 1 allows the Firebase app to be installed into our program which then we wo
 **Description to Code Above:**
 <br>
 From lines 1 - 3, we wanted to indicate the collection that we wanted to grab. Despite that the code is incomplete, we are still tinkering on how we indicate the collection in Firestore on Repl.it. From our understanding, .get() and doc are IMPORTANT parts in allowing Firestore to work. This is because it gets the document information from Firestore applies it to the index.HTML.
+
+```HTML
+1    <!-- input to-do task part -->
+2    <p class="header"> Task </p>
+3    <div class="container">
+4       <div class="the_task_container">
+5         <!-- Task -->
+6         <p id="usertext" type="text" placeholder="Start A Task"/></p> <!-- 4 place that the task will show up -->
+7         <div class = "the_task_data">
+8           <p id="the_task_title"> </p>
+9           <div id="the_task_tools">
+10            <button id="task_done_button" onclick="task_done();"> <i class="fa fa-check"> </i>  </button>
+11            <button id="task_edit_button" onclick="task_edit();"> <i class="fa fa-pencil"> </i>  </button>
+12            <button id="task_delete_button" onclick="task_delete();"> <i class="fa fa-trash"> </i>  </button>
+13          </div>
+14        </div>
+15      </div>
+16    </div>
+17    <!-- task finish -->
+18    <p class="header" > Finish Task </p>
+19    <div class="container">
+20      <div class="task_container">
+21        <div class = "task_data">
+22          <p id="task_title">Task Title 1 </p>
+23        </div>
+24      </div>
+25     </div>
+```
+
+**Description to Code Above:**
+<br>
+The lines above show the buttons for marking, editing, and deleting the tasks. Since we plan to make a To-Do List that is easy to use, we are trying our best to make this as efficient as possible, in which we would include a "Finished" section for the tasks that are completed. 
 
 <hr>
 
