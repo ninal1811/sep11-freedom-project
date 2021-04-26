@@ -79,7 +79,7 @@ The lines above show the buttons for marking, editing, and deleting the tasks. S
 
 <hr>
 
-**MVP - Skills:**
+**MVP:**
 <br>
 When planning my MVP with Cindy, we were still getting the hang of understanding Firebase and Firestore. Although Firebase and Firestore is a complex tool to use, I am will spend time with Cindy to understand the significance of self-learning/self-teaching in advancing our project. As we are working on the HTML and JS of our project, we are testing our project, to ensure that there is no huge error in which it would take a long time to debug. Our next plan is to make the bottoms work for what it is programmed for. 
 
