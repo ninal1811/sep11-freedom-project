@@ -1,5 +1,5 @@
 # SEP11 Freedom Project
-by Nina Li (Partner: Cindy Li)
+By: Nina Li (Partner: Cindy Li)
 
 ## Context
 The "Freedom Project" for SEP11 is all about making an application that uses Javascript to perform one/multiple functions. The purpose of this blog is to present my process in making my application with what I have learned using Javascript and Firebase.
