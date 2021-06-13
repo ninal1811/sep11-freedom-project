@@ -13,7 +13,7 @@ For my project, I am making a To-Do List. This blog will walk through my process
 
 [Product](https://cindyl5697.github.io/SEP11-Cindy-Nina-FP/)
 
-[Presentation]
+[Presentation](https://drive.google.com/file/d/1rPK3Cr8O7KryJJdF7C28gTWj6cvQ8wrz/view?usp=sharing)
 
 ## Implications
 
