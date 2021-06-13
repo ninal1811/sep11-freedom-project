@@ -9,9 +9,9 @@ For my project, I am making a To-Do List. This blog will walk through my process
 
 ## Links
 
-[Product](https://cindyl5697.github.io/SEP11-Cindy-Nina-FP/)
-
 [Slides](https://docs.google.com/presentation/d/1Y7oXYCHGzULVal5NHQbJWpJFIezlNyaMvGYY4W0Cx1Q/edit?usp=sharing)
+
+[Product](https://cindyl5697.github.io/SEP11-Cindy-Nina-FP/)
 
 [Presentation]
 
