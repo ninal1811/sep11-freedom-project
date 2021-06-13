@@ -2,21 +2,20 @@
 by Nina Li (Partner: Cindy Li)
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+The "Freedom Project" for SEP11 is all about making an application that uses Javascript to perform one/multiple functions. The purpose of this blog is to present my process in making my application with what I have learned using Javascript and Firebase.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making a To-Do List. This blog will walk through my process of independently studying my tool Firebase in order to make my To-Do List application.
 
 ## Links
 
-Product
+[Product](https://cindyl5697.github.io/SEP11-Cindy-Nina-FP/)
 
-Presentation
+[Slides](https://docs.google.com/presentation/d/1Y7oXYCHGzULVal5NHQbJWpJFIezlNyaMvGYY4W0Cx1Q/edit?usp=sharing)
+
+[Presentation]
 
 ## Implications
-X
-
----
 
 * [Blog Entry 1](entries/entry01.md)
 * [Blog Entry 2](entries/entry02.md)
